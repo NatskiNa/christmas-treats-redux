@@ -3,11 +3,12 @@ import { MinusIcon, PlusIcon } from '../HeroIcons';
 import { useDispatch } from 'react-redux';
 import { removeItem, increase, decrease } from '../features/cart/CartSlice';
 
+//receive {...item} from CartContainer
 const CartItem = ({ id, name, maker, price, type, image, rating, amount }) => {
   const dispatch = useDispatch();
   return (
     <article className="cart-item">
-      <img src={image} alt="" />
+      <img src={image} alt="item images" />
       <div>
         <h4>{name}</h4>
         <h4 className="item-price">${price}</h4>

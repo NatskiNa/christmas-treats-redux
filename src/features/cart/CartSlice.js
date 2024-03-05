@@ -4,7 +4,7 @@ import cartItems from '../../cartItems';
 // initial shopping cart state
 const initialState = {
   cartItems: cartItems,
-  amount: 4,
+  amount: 0,
   total: 0,
 };
 
