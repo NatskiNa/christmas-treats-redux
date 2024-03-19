@@ -1,1 +1,2 @@
-![Xmas-treats](https://github.com/NatskiNa/christmas-treats-redux/assets/143272547/f6769b21-3e02-4148-9a10-3aa63931b6a0)
+
+<img width="570" alt="Screenshot 2024-03-19 at 12 22 31 PM" src="https://github.com/NatskiNa/christmas-treats-redux/assets/143272547/64973ad3-4553-43b1-816d-10c137a87919">
